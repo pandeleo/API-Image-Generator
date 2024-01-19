@@ -1,1 +1,2 @@
-# API-Image-Generator
+
+** #API-Image-Generator - I created while learning javaScript **
